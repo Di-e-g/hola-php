@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Saludo</title>
+</head>
+<body>
+    <?php
+    // Definir el nombre del estudiante
+    $nombre_estudiante = "Diego Acevedo";
+    ?>
+    <h1>Hola mundo, soy <?php echo $nombre_estudiante; ?></h1>
+</body>
+</html>
+
+header («Content-type: image/jpg»);
+$image = 
+imagecreatefromjpeg(«mifoto.jpg»);
+imagejpg($image);
+misfotos/mifoto.jpg »);
+?>
